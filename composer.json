@@ -1,0 +1,19 @@
+{
+    "name": "vinip/api",
+    "autoload": {
+        "psr-4": {
+            "Vinip\\Api\\": "src/"
+        },
+        "files": [
+            "src/routes/main.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Vinicius Pasini",
+            "email": "vinipasini@hotmail.com"
+        }
+    ],
+    "require": {
+    }
+}
